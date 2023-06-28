@@ -1,6 +1,7 @@
 <div id="header" align="center">
+     <img src="https://sergimateo.com/wp-content/2012/08/fotos-panoramicas-12.jpg" alt="imagen" align="center" width="800" height="200">
     <h1 align="center">Hi there 👋, I'm Uri Gopar</h1>
-    <img src="https://img.olhardigital.com.br/wp-content/uploads/2021/03/galaxias.jpg" alt="imagen" align="center" sizes="200px">
+    <h3 align="center">A passionate student of Computer Science from México. I like to make application Web</h3>
 </div>
 
 Here are some ideas to get you started:
