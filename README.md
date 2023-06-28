@@ -1,7 +1,6 @@
-### Hi there 👋
-
-<!--
-**UriGOPAR/UriGOPAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+    <h1 align="center">Hi there 👋, I'm Uri Gopar</h1>
+</div>
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
