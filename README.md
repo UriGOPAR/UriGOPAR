@@ -1,5 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">Hi there 👋, I'm Uri Gopar</h1>
+    <img src="https://img.olhardigital.com.br/wp-content/uploads/2021/03/galaxias.jpg" alt="imagen" align="center" sizes="200px">
 </div>
 
 Here are some ideas to get you started:
