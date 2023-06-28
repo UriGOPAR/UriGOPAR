@@ -4,16 +4,14 @@
     <h3 align="center">A passionate student of Computer Science from México. I like to make application Web and DataBase</h3>
 </div>
 
-- 🌱 I’m currently learning more of 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning more of database and react
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <h1>You can contact me at:</h1>
 <div id="header" align="center">
-    <a href="https://www.instagram.com/uri_gopar/"><img src="https://clipartart.com/images/instagram-logo-clipart-png-3.png" alt="Instagram" width="100">
-    <a href="https://www.facebook.com/uri.gopar"><img src="https://www.srlf.org/wp-content/uploads/2016/04/Logo_Facebook.png" alt="Facebook" width="125"></a>
+    <span><a href="https://www.instagram.com/uri_gopar/"><img src="https://clipartart.com/images/instagram-logo-clipart-png-3.png" alt="Instagram" width="100"></a></span>
+    <a href="https://www.facebook.com/uri.gopar"><img src="https://www.srlf.org/wp-content/uploads/2016/04/Logo_Facebook.png" alt="Facebook" width="115" height="105"></a>
+     <a href=""><img src="https://www.fenj.nl/wp-content/uploads/2021/04/Google-Workspace-Gmail.png" alt="Email" width="115" height="90"></a>
 </div>
