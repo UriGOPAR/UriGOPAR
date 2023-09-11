@@ -18,18 +18,13 @@
 </div>
 <!--animacion de distancia entre puntos -->
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<br><br>
 
 - 🌱 I’m currently learning more of database and react
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <br><br>
-<h1>You can contact me at:</h1>
-<div id="header" align="center">
-    <span><a href="https://www.instagram.com/uri_gopar/"><img src="https://clipartart.com/images/instagram-logo-clipart-png-3.png" alt="Instagram" width="100"></a></span>
-    <a href="https://www.facebook.com/uri.gopar"><img src="https://www.srlf.org/wp-content/uploads/2016/04/Logo_Facebook.png" alt="Facebook" width="115" height="105"></a>
-     <a href=""><img src="https://www.fenj.nl/wp-content/uploads/2021/04/Google-Workspace-Gmail.png" alt="Email" width="115" height="90"></a>
-</div>
 
 
 <!-- Connect with me -->
