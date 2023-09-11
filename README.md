@@ -18,6 +18,9 @@
   </ul>
 </div>
 
+<br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 - 🌱 I’m currently learning more of database and react
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
