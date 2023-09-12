@@ -34,15 +34,9 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,discord,express,figma,github,html,java,js,mysql,nodejs,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,discord,express,figma,github,html,java,js,mysql,nodejs,py,vscode,ps,php&perline=14" />
   </a>
 </p>
-
-
-
-
-
-
 
 
 <!-- Connect with me -->
