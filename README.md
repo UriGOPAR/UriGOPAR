@@ -13,7 +13,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Frase mamlona</h2></summary>
   </ul>
 </div>
 <!--animacion de distancia entre puntos -->
@@ -27,12 +27,30 @@
 <br><br>
 
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
+<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
   </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,discord,express,figma,github,html,java,js,mysql,nodejs,py,vscode&perline=14" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div align="center">
+    <h2 style="display: inline-block">Connect With Me🤝</h2>
 </div>
 
 <!--icons and links-->
@@ -44,3 +62,7 @@
 <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
