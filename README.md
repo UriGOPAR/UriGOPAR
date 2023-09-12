@@ -28,15 +28,13 @@
 
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2>
-  </ul>
+<div align="center">
+    <h2>Technologies That I Know👨🏻‍💻</h2>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,discord,express,figma,github,html,java,js,mysql,nodejs,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,discord,express,figma,github,html,java,js,mysql,nodejs,py,vscode&perline=14" />
   </a>
 </p>
 
