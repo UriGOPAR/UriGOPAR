@@ -27,6 +27,7 @@
 <br><br>
 
 
+### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/UriGOPAR">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UriGOPAR&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -34,17 +35,15 @@
 </a>
 </p>
 
+
+
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-
-
-
-
-
+<br></br>
 
 <!--h1 without bottom border-->
 <div align="center">
