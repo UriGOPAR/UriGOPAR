@@ -21,9 +21,9 @@
 <br><br>
 
 - 🌱 I’m currently learning more of database and react
-- 💬 Ask me about ...
+- 💬 Ask me about 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: If 
 <br><br>
 
 
