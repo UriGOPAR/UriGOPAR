@@ -13,7 +13,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">I like coffe now I can be a programmer /h2></summary>
+    <h2 style="display: inline-block">I like coffe now I can be a programmer ☕☕ </h2>
   </ul>
 </div>
 <!--animacion de distancia entre puntos -->
