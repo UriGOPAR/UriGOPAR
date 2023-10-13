@@ -1,5 +1,5 @@
 <div id="header" align="center">
-     <img src="https://sergimateo.com/wp-content/2012/08/fotos-panoramicas-12.jpg" alt="imagen" align="center" width="800" height="200">
+     <img src="https://i.pinimg.com/originals/22/31/09/223109c96071bb64b41c5aeb98ee7bea.jpg" alt="imagen" align="center" width="800" height="200">
     <h1 align="center">Hi there 👋, I'm Uri Gopar</h1>
     <h3 align="center">A passionate student of Computer Science from México. I like to make application Web and DataBase</h3>
 </div>
