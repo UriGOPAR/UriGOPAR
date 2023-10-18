@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning more of database and react
 - 💬 Ask me about 
 - 😄 Pronouns: ...
-- ⚡ Fact: I like KISS (Kep It Simple STUPID !!!) 
+- ⚡ Fact: I like KISS (Keep It Simple STUPID !!!) 
 <br><br>
 
 
