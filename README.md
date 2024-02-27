@@ -3,7 +3,12 @@
     <h1 align="center">Hi there 👋, I'm Uri Gopar</h1>
     <h3 align="center">A passionate student of Computer Science from México. I like to make application Web and DataBase</h3>
 </div>
-
+<div>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+</div>
 
 <div id="user-content-toc">
   <ul align="center">
@@ -38,6 +43,12 @@
     </a>
 </div>
 <br></br>
+
+<!--OSO CON COMPU-->
+<div align=center>
+<img  width=300px alt="Imagen_Oso" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+</div>
+<!--FIN-->
 
 <!--h1 without bottom border-->
 <div align="center">
