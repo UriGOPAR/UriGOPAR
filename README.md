@@ -4,12 +4,6 @@
     <h3 align="center">A passionate student of Computer Science from México. I like to make application Web and DataBase</h3>
 </div>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-<!--Finalizacion de la annimacion de snake -->
 
 <div id="user-content-toc">
   <ul align="center">
