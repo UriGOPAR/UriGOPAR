@@ -70,12 +70,10 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&perline=14" alt="linkedin" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&perline=14" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.linkedin.com/in/uri-gopar/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&perline=14" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.instagram.com/uri_gopar/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&perline=14" alt="instagram" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.facebook.com/uri.gopar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="twitter" height="50" width="50" /></a> 
 
-  
 </p>
 
 <!--horizontal divider(gradiant)-->
